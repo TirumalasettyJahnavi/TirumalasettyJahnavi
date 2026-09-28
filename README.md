@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi 👋 I'm Jahnavi Tirumalasetty
 
-<!--
-**TirumalasettyJahnavi/TirumalasettyJahnavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electronics & Communication Engineer | VLSI Enthusiast | RTL Design & Verification
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Electronics & Communication Engineering graduate
+- 🔧 Passionate about **VLSI, RTL Design and Design Verification**
+- 💻 Hands-on experience with **Verilog HDL and SystemVerilog**
+- 🧪 Interested in **UVM-based verification, functional coverage and assertions**
+- 🛠️ Familiar with **Synopsys VCS, QuestaSim, Verdi and SpyGlass**
+- 🚀 Worked on an **APB-based SPI Controller** using Verilog HDL
+- 📚 Currently strengthening my skills in **RTL Design, SystemVerilog and UVM**
+- 💡 I enjoy solving challenging digital design and verification problems
